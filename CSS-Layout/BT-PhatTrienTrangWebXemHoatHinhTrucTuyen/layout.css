@@ -1,0 +1,114 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+ul li {
+    list-style: none;
+}
+
+.header{
+    width: 100%;
+    font-size: 20px;
+    background: black;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    position: fixed;
+    z-index: 9999;
+}
+
+.logo-main{
+    margin-left: 20px;
+}
+
+.logo{
+    color: #e6e6e6!important;
+    background: #b13f3f;
+    padding: 0 5px;
+    text-shadow: 1px 1px 0px #000000;
+    border-radius: 4px;
+    box-shadow: 0 0 1px 1px #ff9696;
+}
+
+.header-link{
+    width: 100%;
+    height: 40px;
+    background: #0c0b0bc2;
+}
+
+.header-link>ul {
+    display: flex; 
+    justify-content: space-evenly;
+    color: wheat;
+}
+
+.header-link>ul>li{
+    padding: 10px;
+    color:white;
+}
+
+.header-link>ul>li>input {
+    height: 30px;
+    border-radius: 30px;
+}
+
+.content{
+    width: 100%;
+    height: auto;
+    background-color: #080707d3;
+    display: flex;
+    padding-top: 40px;
+}
+
+.content .left-content{
+    width: 25%;
+    height: 600px;
+    background: #0f0b4b;
+    margin: 10px;
+}
+
+.content .left-content >ul{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    line-height: 40px;
+    padding-left: 50px;
+}
+
+.content .left-content >ul >li a{
+    color: orange;
+}
+
+.content .right-content{
+    width: 75%;;
+    margin: 10px;
+    text-align: center;
+    color: thistle;
+}
+
+.footer {
+    width: 100%;
+    height: 50px;
+    background: black;
+    padding-top: 10px;
+    color: blanchedalmond;
+    text-align: center;
+}
+
+a:hover{
+    color: red;
+}
+
+.content .left-content >ul >li a:hover{
+    font-weight: 900;
+    color: red;
+}
+
+
