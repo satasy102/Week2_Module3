@@ -1,4 +1,4 @@
-package Codegym;
+package Codegym.tin.customer.model;
 
 public class Customer {
     private int id;
@@ -10,10 +10,12 @@ public class Customer {
     private String address;
 
     public Customer(int id, String fullName, String phoneNumber, String email, String birthday, String gender, String address) {
+        this.id=id;
         this.fullName = fullName;
         this.birthday = birthday;
         this.email = email;
         this.phoneNumber = phoneNumber;
+        this.gender=gender;
         this.address = address;
     }
 

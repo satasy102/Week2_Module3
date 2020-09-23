@@ -1,6 +1,6 @@
 <%@ page import="Codegym.tin.customer.model.Customer" %>
 <%@ page import="java.util.ArrayList" %>
-<%@ page import="static Codegym.tin.customer.model.CustomerList.customerArrayList" %>
+<%@ page import="static Codegym.tin.customer.service.CustomerService.customerArrayList" %>
 
 <%--
   Created by IntelliJ IDEA.
