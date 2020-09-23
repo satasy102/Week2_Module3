@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="BT-HienThiDanhSachKhachHang:war" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5c570cec-0aae-4488-ac52-73cac10c8ad7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/BT_HienThiDanhSachKhachHang_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/BT_HienThiDanhSachKhachHang_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_mail_javax_mail_1_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_activation_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_javaee_api_8_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/jstl_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT-HienThiDanhSachKhachHang.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/anh1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/anh2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/anh3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/anh4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/image/anh5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CodeGym/co/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTLT-LoginPage-JSP/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTLT-LoginPage-JSP/.idea/artifacts/untitled_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTLT-LoginPage-JSP/.idea/artifacts/untitled_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTLT-LoginPage-JSP/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTLT-LoginPage-JSP/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTLT-LoginPage-JSP/.idea/libraries/Maven__javax_servlet_javax_servlet_api_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTLT-LoginPage-JSP/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTLT-LoginPage-JSP/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTLT-LoginPage-JSP/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTLT-LoginPage-JSP/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTLT-LoginPage-JSP/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTLT-LoginPage-JSP/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTLT-LoginPage-JSP/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTLT-LoginPage-JSP/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTLT-LoginPage-JSP/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTLT-LoginPage-JSP/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTLT-LoginPage-JSP/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTLT-LoginPage-JSP/src/main/java/condegym/co/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTLT-LoginPage-JSP/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTLT-LoginPage-JSP/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTLT-LoginPage-JSP/src/main/webapp/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTLT-LoginPage-JSP/target/classes/condegym/co/Customer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTLT-LoginPage-JSP/target/untitled-1.0-SNAPSHOT.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTLT-LoginPage-JSP/target/untitled-1.0-SNAPSHOT/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTLT-LoginPage-JSP/target/untitled-1.0-SNAPSHOT/WEB-INF/classes/condegym/co/Customer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTLT-LoginPage-JSP/target/untitled-1.0-SNAPSHOT/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTLT-LoginPage-JSP/target/untitled-1.0-SNAPSHOT/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTLT-LoginPage-JSP/target/untitled-1.0-SNAPSHOT/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTLT-LoginPage-JSP/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-ChuyenDoiTienTe-JSP/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-ChuyenDoiTienTe-JSP/.idea/artifacts/TH_ChuyenDoiTienTe_JSP_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-ChuyenDoiTienTe-JSP/.idea/artifacts/TH_ChuyenDoiTienTe_JSP_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-ChuyenDoiTienTe-JSP/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-ChuyenDoiTienTe-JSP/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-ChuyenDoiTienTe-JSP/.idea/libraries/Maven__javax_servlet_javax_servlet_api_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-ChuyenDoiTienTe-JSP/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-ChuyenDoiTienTe-JSP/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-ChuyenDoiTienTe-JSP/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-ChuyenDoiTienTe-JSP/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-ChuyenDoiTienTe-JSP/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-ChuyenDoiTienTe-JSP/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-ChuyenDoiTienTe-JSP/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-ChuyenDoiTienTe-JSP/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-ChuyenDoiTienTe-JSP/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-ChuyenDoiTienTe-JSP/TH-ChuyenDoiTienTe-JSP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-ChuyenDoiTienTe-JSP/src/main/webapp/converter.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-ChuyenDoiTienTe-JSP/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-TuDienDonGian-JSP/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-TuDienDonGian-JSP/.idea/artifacts/TH_TuDienDonGian_JSP_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-TuDienDonGian-JSP/.idea/artifacts/TH_TuDienDonGian_JSP_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-TuDienDonGian-JSP/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-TuDienDonGian-JSP/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-TuDienDonGian-JSP/.idea/libraries/Maven__javax_servlet_javax_servlet_api_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-TuDienDonGian-JSP/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-TuDienDonGian-JSP/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-TuDienDonGian-JSP/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-TuDienDonGian-JSP/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-TuDienDonGian-JSP/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-TuDienDonGian-JSP/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-TuDienDonGian-JSP/.idea/libraries/javax_servlet_jstl_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-TuDienDonGian-JSP/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-TuDienDonGian-JSP/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-TuDienDonGian-JSP/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-TuDienDonGian-JSP/.idea/webContexts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-TuDienDonGian-JSP/TH-TuDienDonGian-JSP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-TuDienDonGian-JSP/src/main/webapp/dictionary.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-TuDienDonGian-JSP/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TongQuanUngDungWeb/BT-ChuyenDoiTienTe/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TongQuanUngDungWeb/BT-ChuyenDoiTienTe/.idea/artifacts/BT_ChuyenDoiTienTe_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TongQuanUngDungWeb/BT-ChuyenDoiTienTe/.idea/artifacts/BT_ChuyenDoiTienTe_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TongQuanUngDungWeb/BT-ChuyenDoiTienTe/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TongQuanUngDungWeb/BT-ChuyenDoiTienTe/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TongQuanUngDungWeb/BT-ChuyenDoiTienTe/.idea/libraries/Maven__javax_servlet_javax_servlet_api_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TongQuanUngDungWeb/BT-ChuyenDoiTienTe/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TongQuanUngDungWeb/BT-ChuyenDoiTienTe/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TongQuanUngDungWeb/BT-ChuyenDoiTienTe/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TongQuanUngDungWeb/BT-ChuyenDoiTienTe/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TongQuanUngDungWeb/BT-ChuyenDoiTienTe/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TongQuanUngDungWeb/BT-ChuyenDoiTienTe/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TongQuanUngDungWeb/BT-ChuyenDoiTienTe/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TongQuanUngDungWeb/BT-ChuyenDoiTienTe/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TongQuanUngDungWeb/BT-ChuyenDoiTienTe/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TongQuanUngDungWeb/BT-ChuyenDoiTienTe/.idea/webContexts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TongQuanUngDungWeb/BT-ChuyenDoiTienTe/BT-ChuyenDoiTienTe.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TongQuanUngDungWeb/BT-ChuyenDoiTienTe/src/main/java/ConverterServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TongQuanUngDungWeb/BT-ChuyenDoiTienTe/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TongQuanUngDungWeb/BT-DangNhapHienThiLoiChao/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TongQuanUngDungWeb/BT-DangNhapHienThiLoiChao/.idea/artifacts/BT_DangNhapHienThiLoiChao_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TongQuanUngDungWeb/BT-DangNhapHienThiLoiChao/.idea/artifacts/BT_DangNhapHienThiLoiChao_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TongQuanUngDungWeb/BT-DangNhapHienThiLoiChao/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TongQuanUngDungWeb/BT-DangNhapHienThiLoiChao/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TongQuanUngDungWeb/BT-DangNhapHienThiLoiChao/.idea/libraries/Maven__javax_servlet_javax_servlet_api_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TongQuanUngDungWeb/BT-DangNhapHienThiLoiChao/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TongQuanUngDungWeb/BT-DangNhapHienThiLoiChao/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TongQuanUngDungWeb/BT-DangNhapHienThiLoiChao/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TongQuanUngDungWeb/BT-DangNhapHienThiLoiChao/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TongQuanUngDungWeb/BT-DangNhapHienThiLoiChao/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TongQuanUngDungWeb/BT-DangNhapHienThiLoiChao/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TongQuanUngDungWeb/BT-DangNhapHienThiLoiChao/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TongQuanUngDungWeb/BT-DangNhapHienThiLoiChao/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TongQuanUngDungWeb/BT-DangNhapHienThiLoiChao/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TongQuanUngDungWeb/BT-DangNhapHienThiLoiChao/.idea/webContexts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TongQuanUngDungWeb/BT-DangNhapHienThiLoiChao/BT-DangNhapHienThiLoiChao.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TongQuanUngDungWeb/BT-DangNhapHienThiLoiChao/src/main/java/LoginServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TongQuanUngDungWeb/BT-DangNhapHienThiLoiChao/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TongQuanUngDungWeb/BT-ProductDiscountCalculator/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TongQuanUngDungWeb/BT-ProductDiscountCalculator/.idea/artifacts/BT_ProductDiscountCalculator_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TongQuanUngDungWeb/BT-ProductDiscountCalculator/.idea/artifacts/BT_ProductDiscountCalculator_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TongQuanUngDungWeb/BT-ProductDiscountCalculator/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TongQuanUngDungWeb/BT-ProductDiscountCalculator/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TongQuanUngDungWeb/BT-ProductDiscountCalculator/.idea/libraries/Maven__javax_servlet_javax_servlet_api_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TongQuanUngDungWeb/BT-ProductDiscountCalculator/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TongQuanUngDungWeb/BT-ProductDiscountCalculator/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TongQuanUngDungWeb/BT-ProductDiscountCalculator/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TongQuanUngDungWeb/BT-ProductDiscountCalculator/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TongQuanUngDungWeb/BT-ProductDiscountCalculator/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TongQuanUngDungWeb/BT-ProductDiscountCalculator/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TongQuanUngDungWeb/BT-ProductDiscountCalculator/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TongQuanUngDungWeb/BT-ProductDiscountCalculator/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TongQuanUngDungWeb/BT-ProductDiscountCalculator/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TongQuanUngDungWeb/BT-ProductDiscountCalculator/.idea/webContexts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TongQuanUngDungWeb/BT-ProductDiscountCalculator/BT-ProductDiscountCalculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TongQuanUngDungWeb/BT-ProductDiscountCalculator/src/main/java/DiscountServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TongQuanUngDungWeb/BT-ProductDiscountCalculator/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TongQuanUngDungWeb/TH-TuDienDonGian/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TongQuanUngDungWeb/TH-TuDienDonGian/.idea/artifacts/TH_TuDienDonGian_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TongQuanUngDungWeb/TH-TuDienDonGian/.idea/artifacts/TH_TuDienDonGian_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TongQuanUngDungWeb/TH-TuDienDonGian/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TongQuanUngDungWeb/TH-TuDienDonGian/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TongQuanUngDungWeb/TH-TuDienDonGian/.idea/libraries/Maven__javax_servlet_javax_servlet_api_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TongQuanUngDungWeb/TH-TuDienDonGian/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TongQuanUngDungWeb/TH-TuDienDonGian/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TongQuanUngDungWeb/TH-TuDienDonGian/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TongQuanUngDungWeb/TH-TuDienDonGian/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TongQuanUngDungWeb/TH-TuDienDonGian/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TongQuanUngDungWeb/TH-TuDienDonGian/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TongQuanUngDungWeb/TH-TuDienDonGian/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TongQuanUngDungWeb/TH-TuDienDonGian/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TongQuanUngDungWeb/TH-TuDienDonGian/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TongQuanUngDungWeb/TH-TuDienDonGian/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TongQuanUngDungWeb/TH-TuDienDonGian/TH-TuDienDonGian.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TongQuanUngDungWeb/TH-TuDienDonGian/src/main/java/TranslationServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TongQuanUngDungWeb/TH-TuDienDonGian/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootstrap Basic/BT-Landing Page/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bootstrap Basic/BT-Landing Page/index.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1httvqEQgVDgoYsKcMVEIOWiIpH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../BTLT-CRUDCustomer-JSP" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 9.0.38" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.38" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/BT_HienThiDanhSachKhachHang_war/" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="BT-HienThiDanhSachKhachHang:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/BT_HienThiDanhSachKhachHang_war" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_BT-HienThiDanhSachKhachHang" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="61042" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="BT-HienThiDanhSachKhachHang:war" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_BT-HienThiDanhSachKhachHang" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="61042" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5c570cec-0aae-4488-ac52-73cac10c8ad7" name="Default Changelist" comment="" />
+      <created>1600842450097</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600842450097</updated>
+      <workItem from="1600842451892" duration="687000" />
+      <workItem from="1600843163721" duration="484000" />
+      <workItem from="1600845699831" duration="69000" />
+      <workItem from="1600851274670" duration="2000000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="162" y="0" key="#Project_Structure" timestamp="1600842604550">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="162" y="0" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1600842604550" />
+    <state x="136" y="0" width="1094" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600842525696">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="136" y="0" width="1094" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1600842525696" />
+    <state x="487" y="79" key="#com.intellij.ide.util.MemberChooser" timestamp="1600852466113">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="487" y="79" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1600852466113" />
+    <state x="512" y="57" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1600842598641">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="512" y="57" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1366.728@0.0.1366.728" timestamp="1600842598641" />
+    <state x="412" y="118" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1600842600220">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="412" y="118" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1366.728@0.0.1366.728" timestamp="1600842600220" />
+    <state x="388" y="105" key="FileChooserDialogImpl" timestamp="1600853473523">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="388" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1600853473523" />
+    <state width="904" height="178" key="GridCell.Tab.0.bottom" timestamp="1600853476479">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="904" height="178" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1600853476479" />
+    <state width="904" height="178" key="GridCell.Tab.0.center" timestamp="1600853476479">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="904" height="178" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1600853476479" />
+    <state width="904" height="178" key="GridCell.Tab.0.left" timestamp="1600853476479">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="904" height="178" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1600853476479" />
+    <state width="904" height="178" key="GridCell.Tab.0.right" timestamp="1600853476479">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="904" height="178" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1600853476479" />
+    <state width="904" height="178" key="GridCell.Tab.1.bottom" timestamp="1600853476479">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="904" height="178" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1600853476479" />
+    <state width="904" height="178" key="GridCell.Tab.1.center" timestamp="1600853476479">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="904" height="178" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1600853476479" />
+    <state width="904" height="178" key="GridCell.Tab.1.left" timestamp="1600853476479">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="904" height="178" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1600853476479" />
+    <state width="904" height="178" key="GridCell.Tab.1.right" timestamp="1600853476479">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="904" height="178" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1600853476479" />
+    <state width="904" height="178" key="GridCell.Tab.2.bottom" timestamp="1600853476479">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="904" height="178" key="GridCell.Tab.2.bottom/0.0.1366.728@0.0.1366.728" timestamp="1600853476479" />
+    <state width="904" height="178" key="GridCell.Tab.2.center" timestamp="1600853476479">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="904" height="178" key="GridCell.Tab.2.center/0.0.1366.728@0.0.1366.728" timestamp="1600853476479" />
+    <state width="904" height="178" key="GridCell.Tab.2.left" timestamp="1600853476479">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="904" height="178" key="GridCell.Tab.2.left/0.0.1366.728@0.0.1366.728" timestamp="1600853476479" />
+    <state width="904" height="178" key="GridCell.Tab.2.right" timestamp="1600853476479">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="904" height="178" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1600853476479" />
+    <state x="183" y="8" key="SettingsEditor" timestamp="1600843129099">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="183" y="8" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1600843129099" />
+  </component>
+</project>
