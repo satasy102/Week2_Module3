@@ -1,5 +1,4 @@
 <%@ page import="Codegym.tin.customer.model.Customer" %>
-<%@ page import="java.util.ArrayList" %>
 <%@ page import="static Codegym.tin.customer.service.CustomerService.customerArrayList" %>
 
 <%--
@@ -32,10 +31,7 @@
     </thead>
     <tbody>
     <%
-
-        ArrayList<Customer> customers = customerArrayList;
-
-        for (Customer customer : customers) {
+        for (Customer customer : customerArrayList) {
     %>
     <tr>
         <td><%= customer.getId() %>
@@ -55,6 +51,9 @@
         <td>
             <form action="${pageContext.request.contextPath}/delcus" method="post">
                 <button type="submit" name="id" value="<%= customer.getId() %>">Xóa</button>
+            </form>
+            <form action="${pageContext.request.contextPath}/update.jsp" method="post">
+                <button type="submit" name="id" value="<%= customer.getId() %>">Sửa</button>
             </form>
         </td>
     </tr>

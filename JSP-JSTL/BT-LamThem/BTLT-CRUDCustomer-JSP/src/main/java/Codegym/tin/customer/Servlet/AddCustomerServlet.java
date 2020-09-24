@@ -1,5 +1,6 @@
 package Codegym.tin.customer.Servlet;
 
+import Codegym.tin.customer.service.CustomerService;
 import Codegym.tin.customer.model.Customer;
 
 import javax.servlet.ServletException;
@@ -9,11 +10,13 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 
-import static Codegym.tin.customer.model.CustomerList.customerArrayList;
+import static Codegym.tin.customer.service.CustomerService.customerArrayList;
+
 
 @WebServlet(name = "AddCustomerServlet", urlPatterns = "/addcus")
 public class AddCustomerServlet extends HttpServlet {
-    static int id=0;
+    static int id=customerArrayList.size();
+    CustomerService service=new CustomerService();
 
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         String name = request.getParameter("fullname");
@@ -27,7 +30,7 @@ public class AddCustomerServlet extends HttpServlet {
 
         Customer customer = new Customer(id, name, phone, email, birthday, gender, address);
 
-        customerArrayList.add(customer);
+        service.add(customer);
 
         response.sendRedirect("http://localhost:8080/BTLT_CRUDCustomer_JSP_war/add.jsp");
     }
