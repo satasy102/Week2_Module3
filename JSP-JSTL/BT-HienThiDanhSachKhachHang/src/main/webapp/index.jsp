@@ -1,12 +1,12 @@
-<%@ page import="java.util.ArrayList" %>
-<%@ page import="CodeGym.co.Customer" %><%--
+<%@ page import="codeGym.service.CustomerService" %>
+<%--
   Created by IntelliJ IDEA.
   User: docha
   Date: 20/09/23
   Time: 1:27 PM
   To change this template use File | Settings | File Templates.
 --%>
-
+<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 
 <html>
@@ -14,31 +14,26 @@
     <title>Title</title>
 </head>
 <body>
-<%!
-    ArrayList<Customer> cusList=new ArrayList();
-    Customer cus1=new Customer("Mai Văn Hoàng","1983-08-20","Hà Nội", "anh1.png");
-    Customer cus2=new Customer("Nguyễn Văn Nam","1983-08-21","Bắc Giang", "anh2.png");
-    Customer cus3=new Customer("Nguyễn Thái Hòa","1983-08-22","Nam Định", "anh3.png");
-    Customer cus4=new Customer("Trần Đăng Khoa","1983-08-17","Hà Tây", "anh4.png");
-    Customer cus5=new Customer("Nguyễn Đình Thi","1983-08-19","Hà Nội", "anh5.png");
-%>
-<%
-    cusList.add(cus1);
-    cusList.add(cus2);
-    cusList.add(cus3);
-    cusList.add(cus4);
-    cusList.add(cus5);
-
-%>
     <h1>DANH SÁCH KHÁCH HÀNG</h1>
-    <table>
-        <th>Tên</th>
+    <table border="1" cellspacing="0">
+        <thead>
         <tr>
-
+            <th>Tên</th>
+            <th>Ngày sinh</th>
+            <th>Địa chỉ</th>
+            <th>Ảnh</th>
         </tr>
-        <th>Ngày sinh</th>
-        <th>Địa chỉ</th>
-        <th>Ảnh</th>
+        </thead>
+        <tbody>
+        <c:forEach items="${CustomerService.cusList}" var="element">
+            <tr>
+                <td><c:out value="${element.name}"/></td>
+                <td><c:out value="${element.dob}"/></td>
+                <td><c:out value="${element.address}"/></td>
+                <td><img src="<c:url value="image/${element.url_img}" />" alt="avatar"/></td>
+            </tr>
+        </c:forEach>
+        </tbody>
     </table>
 </body>
 </html>

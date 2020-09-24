@@ -8,7 +8,7 @@ public class CustomerService {
     public static ArrayList<Customer> customerArrayList = new ArrayList<>();
 
     static {
-        
+
     }
 
     public void add(Customer customer) {

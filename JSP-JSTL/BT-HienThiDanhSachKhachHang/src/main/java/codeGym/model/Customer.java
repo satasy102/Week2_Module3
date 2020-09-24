@@ -1,4 +1,4 @@
-package CodeGym.co;
+package codeGym.model;
 
 public class Customer {
     private String name;

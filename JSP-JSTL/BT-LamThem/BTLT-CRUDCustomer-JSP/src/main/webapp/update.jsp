@@ -35,7 +35,7 @@
             CustomerService service=new CustomerService();
 
             Customer customer= service.findById(id);
-        %>
+        %> 
         <tr>
             <td><%= customer.getId() %>
             </td>
