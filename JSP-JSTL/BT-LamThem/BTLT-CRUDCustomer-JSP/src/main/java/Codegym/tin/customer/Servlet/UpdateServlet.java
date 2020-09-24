@@ -19,7 +19,7 @@ public class UpdateServlet extends HttpServlet {
         String name = request.getParameter("fullname");
         String phone = request.getParameter("phone");
         String email = request.getParameter("email");
-        String birthday = request.getParameter("birthday");
+        String birthday = request.getParameter("birthday ");
         String gender = request.getParameter("gender");
         String address = request.getParameter("address");
 

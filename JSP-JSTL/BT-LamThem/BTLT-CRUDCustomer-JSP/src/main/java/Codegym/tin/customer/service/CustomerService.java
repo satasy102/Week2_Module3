@@ -8,9 +8,7 @@ public class CustomerService {
     public static ArrayList<Customer> customerArrayList = new ArrayList<>();
 
     static {
-        Customer cus1 = new Customer(1, "Do Chanh Tin", "0966257852",
-                "dochanhtin95@gmail.com", "17/5/1995", "Nam", "25 Nguy Hue, Hue");
-        customerArrayList.add(cus1);
+        
     }
 
     public void add(Customer customer) {
