@@ -26,7 +26,7 @@
                     </tr>
                 </thead>
                 <tbody>
-                        <c:set scope="page" value="${customer}" var="customer"/>
+
                         <tr>
                             <td>
                                 <input type="text" name="fullname" value="<c:out value="${customer.fullName}"/>">
